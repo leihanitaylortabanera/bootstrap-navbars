@@ -27,3 +27,11 @@
     padding-top: 0px;
     color: black;
 }
+
+#navbar-3 {
+    background-color: rgb(48,73,95);
+}
+
+#navbar-3 .nav-item {
+    color: white;
+}
